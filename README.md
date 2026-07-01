@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍽️ Royal Restaurant Website
 
 A modern, responsive restaurant website built using HTML, CSS, and JavaScript. The website showcases the restaurant's menu, chefs, reservation system, customer reviews, and contact information with an elegant and user-friendly design.
@@ -217,3 +218,6 @@ If you found this project helpful, consider giving it a ⭐ on GitHub.
 ## 📸 Preview
 
 Royal Restaurant offers an elegant online dining experience with a modern interface, premium food showcase, responsive design, and intuitive navigation for an exceptional user experience.
+=======
+
+>>>>>>> 1e92cb367928b76fb5e37861affa7f0a9f171a80
